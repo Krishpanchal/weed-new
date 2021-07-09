@@ -1,0 +1,1 @@
+crop_weed_detection.weights filter=lfs diff=lfs merge=lfs -text
